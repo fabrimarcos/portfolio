@@ -2044,11 +2044,11 @@
 			margin: 0.5em 0 0 0;
 		}
 
-		#logo .image {
-			position: absolute;
-			left: 0;
-			top: 0;
-		}
+		// #logo .image {
+		// 	position: absolute;
+		// 	left: 0;
+		// 	top: 0;
+		// }
 
 	#nav ul li a {
 		display: block;
@@ -2071,7 +2071,7 @@
 
 			#nav ul li a span:before {
 				position: absolute;
-				left: 0;
+				right: 0;
 				color: #41484c;
 				text-align: center;
 				width: 1.0em;
@@ -2227,7 +2227,7 @@
 
 /* Narrow */
 
-	@media screen and (min-width: 961px) and (max-width: 1320px) {
+	@media screen and (min-width: 961px) {
 
 		/* Basic */
 
